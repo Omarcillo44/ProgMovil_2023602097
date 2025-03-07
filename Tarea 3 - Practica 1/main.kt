@@ -1,10 +1,3 @@
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
-import java.time.format.DateTimeParseException
-import java.time.temporal.ChronoUnit
-import java.util.InputMismatchException
-import java.util.Scanner
-
 fun main() {
 
     var opcion:Int //Iterador del menú
